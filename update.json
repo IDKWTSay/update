@@ -1,6 +1,7 @@
 {
   "version": "1.4.1",
-  "download_url_enc": "gAAAAABo.....(Fernet 토큰).....",
-  "filename": "SoopDownloaderSetup_1.4.1.exe",
-  "sha256": "2f5b8f5f6f4f7e2f3f0f1d3c9a2b6a2d7b3d4c5e6f7a8b9c0d1e2f3a4b5c6d7e"
+  "update_mode": "light",
+  "filename": "SoopDownloaderUpdate_1.4.1.exe",
+  "sha256": "8F9486B699E8294A2C2E6733D746FC38BF506C228DC72FE6FE355F8B232BDBEE",
+  "download_url_enc": "gAAAAABpoCZ35Tu7ap4RpOn_OvPRnkH7gDdb839uFrz8j6LrkGb4CNxcroQiPCQK2TuTdBRgCh1ouMdcSuv_DVToYZUvFOXBDPImgT3UYLbT1QkGZwc_W4GAKXBxxpKpBeRi44MpYKSByL-sMupW4UnoUrg45azj3cWSLY1MruEVNvO7i6HMDStmJfCtvkaYcYUItGZ-qFJn"
 }
