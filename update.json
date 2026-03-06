@@ -1,7 +1,7 @@
 {
-  "version": "1.4.0",
-  "update_mode": "light",
-  "filename": "SoopDownloaderUpdate_1.4.1.exe",
-  "sha256": "A37EE1A1962DEE25FB165A3EF884A15F9C1E414C0F3BE9FE6994465A6C5F90BD",
-  "download_url_enc": "gAAAAABpoC7vrkOop1BmhH3maV3xBfaowO84vYBmrqw_V5ekH6hjiwAoXY26us2YfqTTAjnAI8TqdgQcaokHeI2oXHliyepdr7Qf0aZVjCYbXs6FPQw19zwU0Nln3QzpgJR_vWsbpkowQdvtUBHs06YdOjVibkffP8RogdOe7ljzocuOz63sAJE1kJG7AuusBaEaqZqDunXx"
+  "version": "1.4.2",
+  "update_mode": "extended",
+  "filename": "SoopDownloaderUpdateExtended_1.4.2.exe",
+  "download_url_enc": "gAAAAABpqvIcMlyeYZ77l-ZPYX81aD3i7N6JaKcQ7QOKdcUgT8NmE1f73_HWYdURwYf1eZZDcn44_h_rT079ZEk5LTnQaqlDUEJhscw_khXqOEOoIOmDcDgZ4Bn5ow3Ikd7gq_FgjaLomNHrt-dGi3nty0MZ2YJW9SRQ4YBEq3kgD_eMUixdMCMrDOAuwez6BMFYe1toWuID",
+  "sha256": "4997dc8c156ff7336c74fed39e5fc1aa8f4d0fe57ac94b465b35a1b42268ea30"
 }
